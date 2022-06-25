@@ -1,0 +1,8 @@
+  _                          /      
+ | \  _  ._      ._ _.  _ o  _  ._  
+ |_/ (/_ |_) |_| | (_| (_ | (_) | | 
+         |                          
+         
+En este directorio se detallan las etapas seguidas para la depuración de los datasets originales y su posterior uso en el modelo XGBoost para buscar la fidelización de clientes.
+
+------------------------------------------------------
